@@ -1,0 +1,15 @@
+* {
+    background-color: azure;
+}
+
+h1 {
+    color: midnightblue;
+}
+
+.friends, h3, p {
+    background-color: lightblue;
+}
+
+h3 {
+    text-transform: uppercase;
+}
